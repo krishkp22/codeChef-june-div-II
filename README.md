@@ -1,2 +1,2 @@
-# codeChef-june-div-II
+# codeChef-JUNE20B
 This was my first coding contest and solved 5 problems and here is my solutions in c++.
